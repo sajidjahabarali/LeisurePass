@@ -17,6 +17,47 @@ export default function ProductTable() {
   const [rowData, setRowData] = useState(null);
   const [gridApi, setGridApi] = useState(null);
   const [gridColumnApi, setGridColumnApi] = useState(null);
+
+  const cleanData = (data) => {
+    for (var key in data) {
+      data[key].ID = Number(data[key].ID);
+      switch (data[key].CATEGORY_ID) {
+        case "1":
+          data[key].CATEGORY_ID = "Kitchen";
+          break;
+        case "2":
+          data[key].CATEGORY_ID = "Power Tools";
+          break;
+        case "3":
+          data[key].CATEGORY_ID = "Furniture";
+          break;
+        case "4":
+          data[key].CATEGORY_ID = "Electric";
+          break;
+        case "5":
+          data[key].CATEGORY_ID = "Washroom";
+          break;
+        case "6":
+          data[key].CATEGORY_ID = "Textiles";
+          break;
+        case "7":
+          data[key].CATEGORY_ID = "Misc";
+          break;
+      }
+    }
+
+    return data;
+  };
+
+  useEffect(() => {
+    axios.get("http://localhost:5000/get-data").then((response) => {
+      var data = response.data;
+      data = cleanData(data);
+      console.log(data);
+      setRowData(data);
+    });
+  }, []);
+
   const onGridReady = (params) => {
     setGridApi(params.api);
     setGridColumnApi(params.columnApi);
@@ -28,14 +69,11 @@ export default function ProductTable() {
 
     fetch("http://localhost:5000/get-data")
       .then((resp) => resp.json())
-      .then((data) => updateData(data));
+      .then((data) => {
+        data = cleanData(data);
+        updateData(data);
+      });
   };
-
-  useEffect(() => {
-    axios
-      .get("http://localhost:5000/get-data")
-      .then((response) => setRowData(response.data));
-  }, []);
 
   const onPageSizeChanged = (newPageSize) => {
     var value = document.getElementById("page-size").value;
