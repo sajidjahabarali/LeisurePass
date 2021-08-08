@@ -2,6 +2,11 @@
 
 Product management application for LeisurePass
 
+## Prerequisites
+
+npm version: 6.14.14
+node version: v14.17.4
+
 ## How to run the application
 
 1. Install dependencies for the backend and frontend by navigating to the ui and backend directories and running:
