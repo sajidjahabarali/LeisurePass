@@ -1,0 +1,308 @@
+[
+  {
+    "ID": "1",
+    "NAME": "Knife Set",
+    "DESCRIPTION": "A set of knives in all shapes and sizes.",
+    "CATEGORY_ID": "1",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "2",
+    "NAME": "Plate Rack",
+    "DESCRIPTION": "A storage solution for plates.",
+    "CATEGORY_ID": "1",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/19/2020 0:01"
+  },
+  {
+    "ID": "3",
+    "NAME": "Microwave",
+    "DESCRIPTION": "Cook food quick with this handy microwave.",
+    "CATEGORY_ID": "1",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "4",
+    "NAME": "Juicer",
+    "DESCRIPTION": "When life gives you lemons, make lemonade.",
+    "CATEGORY_ID": "1",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "9/28/2020 0:01"
+  },
+  {
+    "ID": "5",
+    "NAME": "Meat Hooks",
+    "DESCRIPTION": "A butchers meat hook.",
+    "CATEGORY_ID": "1",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "6",
+    "NAME": "Cabinet Knobs",
+    "DESCRIPTION": "Make sure you can open your cabinets.",
+    "CATEGORY_ID": "1",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/19/2020 0:01"
+  },
+  {
+    "ID": "7",
+    "NAME": "Frying Pans",
+    "DESCRIPTION": "Cook up a storm with this non stick frying pan.",
+    "CATEGORY_ID": "1",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/28/2020 0:01"
+  },
+  {
+    "ID": "8",
+    "NAME": "Power Drill",
+    "DESCRIPTION": "A drill, but with an electric motor.",
+    "CATEGORY_ID": "2",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/28/2020 0:01"
+  },
+  {
+    "ID": "9",
+    "NAME": "Jack Hammer",
+    "DESCRIPTION": "Demolish old concrete and removing pavement, it does it all1",
+    "CATEGORY_ID": "2",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "10",
+    "NAME": "Table Saw",
+    "DESCRIPTION": "A saw ideal for table top use.",
+    "CATEGORY_ID": "2",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "11",
+    "NAME": "Sander",
+    "DESCRIPTION": "Get that smooth finish you've been craving.",
+    "CATEGORY_ID": "2",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/27/2020 0:01"
+  },
+  {
+    "ID": "12",
+    "NAME": "Circular Saw",
+    "DESCRIPTION": "Its a saw, but circular.",
+    "CATEGORY_ID": "2",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "13",
+    "NAME": "Diamond Core",
+    "DESCRIPTION": "Cut some really big holes in some really tough materials with this solid drill bit.",
+    "CATEGORY_ID": "2",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/27/2020 0:01"
+  },
+  {
+    "ID": "14",
+    "NAME": "Paddle Mixer",
+    "DESCRIPTION": "Mix just about anything with this paddle mixer.",
+    "CATEGORY_ID": "2",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "9/21/2020 10:01"
+  },
+  {
+    "ID": "15",
+    "NAME": "Sofas",
+    "DESCRIPTION": "Sofas galore, they're super soft and comfortable.",
+    "CATEGORY_ID": "3",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/28/2020 0:01"
+  },
+  {
+    "ID": "16",
+    "NAME": "Coffee Tables",
+    "DESCRIPTION": "Keep your coffee safe and stick it on one of these tables.",
+    "CATEGORY_ID": "3",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/28/2020 0:01"
+  },
+  {
+    "ID": "17",
+    "NAME": "Monoblocks",
+    "DESCRIPTION": "Lovely paving slabs which look great anywhere!",
+    "CATEGORY_ID": "3",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "18",
+    "NAME": "Footstool",
+    "DESCRIPTION": "Pop your feet up, you've earned it.",
+    "CATEGORY_ID": "3",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "12/10/2020 00:01:00"
+  },
+  {
+    "ID": "19",
+    "NAME": "Armchair",
+    "DESCRIPTION": "Its a chair, but for you arms.",
+    "CATEGORY_ID": "3",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "9/28/2020 0:01"
+  },
+  {
+    "ID": "20",
+    "NAME": "5 Chest Drawer",
+    "DESCRIPTION": "So many drawers.",
+    "CATEGORY_ID": "3",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/27/2020 0:01"
+  },
+  {
+    "ID": "21",
+    "NAME": "3 Chest Drawer",
+    "DESCRIPTION": "Not so many drawers.",
+    "CATEGORY_ID": "3",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/27/2020 0:01"
+  },
+  {
+    "ID": "22",
+    "NAME": "Copper Wiring (10m)",
+    "DESCRIPTION": "A big ol' spindle of copper wiring.",
+    "CATEGORY_ID": "4",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/28/2020 0:01"
+  },
+  {
+    "ID": "23",
+    "NAME": "Wire Strippers",
+    "DESCRIPTION": "Strip wire easily, with wire strippers.",
+    "CATEGORY_ID": "4",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "9/21/2020 10:01"
+  },
+  {
+    "ID": "24",
+    "NAME": "Torch",
+    "DESCRIPTION": "Shine on.",
+    "CATEGORY_ID": "4",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "9/28/2020 0:01"
+  },
+  {
+    "ID": "25",
+    "NAME": "Cable Knife",
+    "DESCRIPTION": "Cut cables, with a cable knife.",
+    "CATEGORY_ID": "4",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/19/2020 0:01"
+  },
+  {
+    "ID": "26",
+    "NAME": "Insulated Screwdrivers",
+    "DESCRIPTION": "Toasty screwdrivers.",
+    "CATEGORY_ID": "4",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/28/2020 0:01"
+  },
+  {
+    "ID": "27",
+    "NAME": "Light Bulb",
+    "DESCRIPTION": "What a great idea.",
+    "CATEGORY_ID": "4",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/21/2020 0:01"
+  },
+  {
+    "ID": "28",
+    "NAME": "Batteries",
+    "DESCRIPTION": "They last a really really long time.",
+    "CATEGORY_ID": "4",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "29",
+    "NAME": "Hand Towel",
+    "DESCRIPTION": "Towels for your hands.",
+    "CATEGORY_ID": "5",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/19/2020 0:01"
+  },
+  {
+    "ID": "30",
+    "NAME": "Face Towel",
+    "DESCRIPTION": "Towels for you face.",
+    "CATEGORY_ID": "5",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/24/2020 0:01"
+  },
+  {
+    "ID": "31",
+    "NAME": "Toilet Seats",
+    "DESCRIPTION": "Seats for your toilet.",
+    "CATEGORY_ID": "5",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/25/2020 0:01"
+  },
+  {
+    "ID": "32",
+    "NAME": "Shower Head",
+    "DESCRIPTION": "Heads for your shower.",
+    "CATEGORY_ID": "5",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "9/28/2020 0:01"
+  },
+  {
+    "ID": "33",
+    "NAME": "Drain Plug",
+    "DESCRIPTION": "A high quality drain plug.",
+    "CATEGORY_ID": "5",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/27/2020 0:01"
+  },
+  {
+    "ID": "34",
+    "NAME": "Towel Rack",
+    "DESCRIPTION": "Hang your towels here.",
+    "CATEGORY_ID": "5",
+    "CREATION_DATE": "9/20/2020 0:01",
+    "UPDATE_DATE": "9/20/2020 0:01",
+    "LAST_PURCHASED_DATE": "10/28/2020 0:01"
+  }
+]
